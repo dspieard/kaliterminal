@@ -1,6 +1,6 @@
 # Kali terminal
 
-This is my current terminal interface I use in kali Linux.
+This is my current terminal interface for Kali Linux.
 
 tmux
 -----
