@@ -2,6 +2,8 @@
 
 This is my current terminal interface for Kali Linux.
 
+!["screenshot"](https://i.imgur.com/sCAEu0v.png "screenshot")
+
 tmux
 -----
 The tmux config is based on gpakosz "Oh my tmux". Go to https://github.com/gpakosz/.tmux for instructions or execute the following commands:
